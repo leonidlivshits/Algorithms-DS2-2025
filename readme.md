@@ -39,7 +39,7 @@ A1
 
 ## Анализ результатов
 
-![alt text](results/results.png)
+![alt text](results.png)
 
 
 ### 1. `std::sort`
